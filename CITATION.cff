@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "equivariance-transport: companion code for 'How far can symmetry help?'"
+authors:
+  - family-names: "Nembé"
+    given-names: "Jocelyn"
+    affiliation: "Modeling and Calculus Laboratory, Libreville, Gabon"
+    email: "jnembe@roots-insights.org"
+year: 2026
+repository-code: "https://github.com/jnembe777/equivariance-transport"
+license: MIT
+preferred-citation:
+  type: article
+  title: "How far can symmetry help? Phase transitions and symmetry selection in sparse functional data analysis"
+  authors:
+    - family-names: "Nembé"
+      given-names: "Jocelyn"
+  year: 2026
+  notes: "arXiv preprint — TODO: insérer l'identifiant arXiv"

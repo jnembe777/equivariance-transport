@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# sorties régénérables produites à côté des scripts avant rangement
+scripts/fig_*.pdf
+scripts/*.json
+# ne JAMAIS versionner d'archives ou de documents internes
+*.zip
+cover_letter*
+rapports_revue/
+checklist*
+corrections_a_terminer*
