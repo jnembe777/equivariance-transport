@@ -4,8 +4,8 @@ title: "equivariance-transport: companion code for 'How far can symmetry help?'"
 authors:
   - family-names: "Nembé"
     given-names: "Jocelyn"
-    affiliation: "Modeling and Calculus Laboratory, Libreville, Gabon"
-    email: "jnembe@roots-insights.org"
+    affiliation: "Laboratory of Engineering Applied to Business Management, P.O Box 190, Libreville"
+    email: "jnembe@hotmail.com"
 year: 2026
 repository-code: "https://github.com/jnembe777/equivariance-transport"
 license: MIT
@@ -16,4 +16,4 @@ preferred-citation:
     - family-names: "Nembé"
       given-names: "Jocelyn"
   year: 2026
-  notes: "arXiv preprint — TODO: insérer l'identifiant arXiv"
+  notes: "arXiv:2608.27055 "
